@@ -1,0 +1,39 @@
+.container{
+  background-color: aqua;
+  padding: 10px;
+  
+}
+
+h1,
+h3 {
+  background-color: aliceblue;
+}
+
+p, li {
+  background-color: aquamarine;
+}
+
+.para1 {
+  background-color: antiquewhite;
+  padding: 1px;
+  /* border: px; */
+}
+
+.para2 {
+  width: 400px;
+  background-color: blueviolet;
+  display: block;
+  padding: 10px ;
+  margin: 0px auto;
+  text-align: center;
+  /* margin-right: 700px; */
+
+}
+
+button{
+  background-color: whitesmoke;
+  display: block;
+  padding: 10px ;
+  margin: 0px auto;
+  font-size: 30px;
+}
